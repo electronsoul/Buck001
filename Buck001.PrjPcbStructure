@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=InputSection.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=InputSection.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=SwitchingSection.SchDoc|SheetNumber=3
