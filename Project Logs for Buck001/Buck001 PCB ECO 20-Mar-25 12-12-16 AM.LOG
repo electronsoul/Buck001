@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found CAPC6153X670N
+Added Component: Designator=U1(TPS54360DDAR)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TPS54360DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=SwitchingSection
+Add Class Member: Failed to add class member : Component C6 KRM55WR71J226MH01K
