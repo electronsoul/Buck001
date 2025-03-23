@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MLERNHNN
 
 [Document2]
-DocumentPath=InputSection.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KHAPEKNT
-
-[Document3]
 DocumentPath=SwitchingSection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZLOAFTO
 
-[Document4]
+[Document3]
 DocumentPath=Buck001.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,12 +101,12 @@ GenerateClassCluster=0
 DocumentUniqueId=YLTQMMPM
 
 [Parameter1]
-Name=SheetsTotal
-Value=5
-
-[Parameter2]
 Name=Project
 Value=Buck001
+
+[Parameter2]
+Name=SheetsTotal
+Value=5
 
 [Configuration1]
 Name=Sources
