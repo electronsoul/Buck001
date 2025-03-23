@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MLERNHNN
 
 [Document2]
-DocumentPath=SwitchingSection.SchDoc
+DocumentPath=TPS54260.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
