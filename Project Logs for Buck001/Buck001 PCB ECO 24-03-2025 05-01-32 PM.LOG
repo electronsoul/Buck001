@@ -1,0 +1,15 @@
+Added Component: Designator=H46(CS_1MM)
+Added Component: Designator=H47(CS_1MM)
+Added Component: Designator=H48(CS_1MM)
+Added Component: Designator=H49(CS_1MM)
+Added Component: Designator=H50(CS_1MM)
+Added Pin To Net: NetName=GND Pin=H46-1
+Added Pin To Net: NetName=GND Pin=H47-1
+Added Pin To Net: NetName=GND Pin=H48-1
+Added Pin To Net: NetName=GND Pin=H49-1
+Added Pin To Net: NetName=GND Pin=H50-1
+Added Member To Class: ClassName=TPS54260 Member=Component H46 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H47 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H48 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H49 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H50 Castalated_Hole_1MM

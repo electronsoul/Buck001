@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VIN Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VIN Pin=L1-1
+Removed Member From Class: ClassName=TPS54260 Member=C2
+Removed Member From Class: ClassName=TPS54260 Member=C6
+Removed Member From Class: ClassName=TPS54260 Member=L1
+Added Pin To Net: NetName=VIN Pin=R1-2
+Added Pin To Net: NetName=VIN Pin=U1-2

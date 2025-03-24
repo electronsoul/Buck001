@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VIN Pin=H9-1
+Removed Pin From Net: NetName=VIN Pin=H10-1
+Removed Member From Class: ClassName=TPS54260 Member=H9
+Removed Member From Class: ClassName=TPS54260 Member=H10

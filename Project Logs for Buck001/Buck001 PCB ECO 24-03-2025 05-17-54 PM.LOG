@@ -1,0 +1,15 @@
+Added Component: Designator=FIN1(FIN_5X1)
+Added Component: Designator=FIN2(FIN_5X1)
+Added Component: Designator=FIN3(FIN_5X1)
+Added Component: Designator=FIN4(FIN_5X1)
+Added Component: Designator=FIN5(FIN_5X1)
+Added Pin To Net: NetName=GND Pin=FIN1-1
+Added Pin To Net: NetName=GND Pin=FIN2-1
+Added Pin To Net: NetName=GND Pin=FIN3-1
+Added Pin To Net: NetName=GND Pin=FIN4-1
+Added Pin To Net: NetName=GND Pin=FIN5-1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN1 FIN_5X1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN2 FIN_5X1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN3 FIN_5X1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN4 FIN_5X1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN5 FIN_5X1

@@ -1,0 +1,9 @@
+Added Component: Designator=H11(CS_1MM)
+Added Component: Designator=H12(CS_1MM)
+Added Component: Designator=H13(CS_1MM)
+Added Pin To Net: NetName=VIN Pin=H11-1
+Added Pin To Net: NetName=VIN Pin=H12-1
+Added Pin To Net: NetName=VIN Pin=H13-1
+Added Member To Class: ClassName=TPS54260 Member=Component H11 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H12 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H13 Castalated_Hole_1MM

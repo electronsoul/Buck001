@@ -1,0 +1,4 @@
+Add Component: Footprint Not Found SRP6060FA220M
+Added Member To Class: ClassName=TPS54260 Member=Component C1 MLCC_1206
+Added Member To Class: ClassName=TPS54260 Member=Component C6 MLCC_1210
+Add Class Member: Failed to add class member : Component L3 SRP6060FA-220M

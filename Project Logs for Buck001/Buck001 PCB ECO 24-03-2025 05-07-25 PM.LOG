@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VOUT Pin=H30-1
+Removed Pin From Net: NetName=VOUT Pin=H34-1
+Removed Member From Class: ClassName=TPS54260 Member=H30
+Removed Member From Class: ClassName=TPS54260 Member=H34

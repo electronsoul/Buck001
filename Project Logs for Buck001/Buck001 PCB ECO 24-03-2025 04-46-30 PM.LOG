@@ -1,0 +1,30 @@
+Added Component: Designator=H13(CS_1MM)
+Added Component: Designator=H14(CS_1MM)
+Added Component: Designator=H15(CS_1MM)
+Added Component: Designator=H16(CS_1MM)
+Added Component: Designator=H17(CS_1MM)
+Added Component: Designator=H18(CS_1MM)
+Added Component: Designator=H19(CS_1MM)
+Added Component: Designator=H20(CS_1MM)
+Added Component: Designator=H21(CS_1MM)
+Added Component: Designator=H22(CS_1MM)
+Added Pin To Net: NetName=VOUT Pin=H13-1
+Added Pin To Net: NetName=VOUT Pin=H14-1
+Added Pin To Net: NetName=VOUT Pin=H15-1
+Added Pin To Net: NetName=VOUT Pin=H16-1
+Added Pin To Net: NetName=VOUT Pin=H17-1
+Added Pin To Net: NetName=VOUT Pin=H18-1
+Added Pin To Net: NetName=VOUT Pin=H19-1
+Added Pin To Net: NetName=VOUT Pin=H20-1
+Added Pin To Net: NetName=VOUT Pin=H21-1
+Added Pin To Net: NetName=VOUT Pin=H22-1
+Added Member To Class: ClassName=TPS54260 Member=Component H13 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H14 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H15 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H16 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H17 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H18 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H19 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H20 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H21 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H22 Castalated_Hole_1MM

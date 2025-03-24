@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=UUX_XXXXX_NL New Footprint=CAP1210
+Change Component Comment : Designator=C2 Old Comment=UUX_XXXXX New Comment=MLCC_1210
+Change component parameters: Designator = "C2" ("C2"); Footprint = "UUX_XXXXX_NL"; UniqueID = "\IILWNSJF" ("\IILWNSJF")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"

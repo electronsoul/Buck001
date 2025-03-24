@@ -1,0 +1,27 @@
+Added Component: Designator=H2(CS_1MM)
+Added Component: Designator=H3(CS_1MM)
+Added Component: Designator=H4(CS_1MM)
+Added Component: Designator=H5(CS_1MM)
+Added Component: Designator=H6(CS_1MM)
+Added Component: Designator=H7(CS_1MM)
+Added Component: Designator=H8(CS_1MM)
+Added Component: Designator=H9(CS_1MM)
+Added Component: Designator=H10(CS_1MM)
+Added Pin To Net: NetName=VIN Pin=H2-1
+Added Pin To Net: NetName=VIN Pin=H3-1
+Added Pin To Net: NetName=VIN Pin=H4-1
+Added Pin To Net: NetName=VIN Pin=H5-1
+Added Pin To Net: NetName=VIN Pin=H6-1
+Added Pin To Net: NetName=VIN Pin=H7-1
+Added Pin To Net: NetName=VIN Pin=H8-1
+Added Pin To Net: NetName=VIN Pin=H9-1
+Added Pin To Net: NetName=VIN Pin=H10-1
+Added Member To Class: ClassName=TPS54260 Member=Component H2 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H3 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H4 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H5 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H6 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H7 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H8 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H9 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H10 Castalated_Hole_1MM

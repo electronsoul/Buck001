@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Buck001.PcbDoc]
+   Generated File[Buck001.TXT]
+   Generated File[Buck001.LDP]
+   Generated File[Buck001.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 05:29:06 PM On 24-03-2025
