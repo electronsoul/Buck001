@@ -210,6 +210,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Buck001\Gerber\Buck001.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Buck001\Design Rule Check - Buck001.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project
 Value=Buck001

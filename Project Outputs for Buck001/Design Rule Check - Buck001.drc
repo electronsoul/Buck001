@@ -1,0 +1,132 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\PowerModules\Buck001\Buck001.PcbDoc
+Date     : 25-03-2025
+Time     : 01:46:05 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H10-1(28mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H1-1(32mm,11.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H11-1(2mm,0mm) on Multi-Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H12-1(32mm,5.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H13-1(2mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H14-1(4mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H15-1(24mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H16-1(4mm,0mm) on Multi-Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H17-1(32mm,3.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H18-1(10mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H19-1(6mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H20-1(32mm,17mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H2-1(30mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H21-1(-0.036mm,2.237mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H22-1(32mm,1.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H23-1(12mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H24-1(8mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H25-1(32mm,19mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H26-1(-0.036mm,4.237mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H27-1(16mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H28-1(14mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H29-1(-0.036mm,6.237mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H30-1(0mm,21mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H3-1(26mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H31-1(-0.036mm,8.237mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H32-1(0mm,19mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H33-1(0mm,17mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H34-1(-0.036mm,10.237mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H35-1(0mm,15mm) on Multi-Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H4-1(22mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H5-1(32mm,9.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H6-1(18mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H7-1(32mm,21mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H8-1(20mm,24mm) on Multi-Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad H9-1(32mm,7.75mm) on Multi-Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Bottom Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(0mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,0mm)(32mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (0mm,24mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (32mm,0mm)(32mm,24mm) on Keep-Out Layer 
+Rule Violations :58
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.246mm < 0.254mm) Between Pad C1-1(19.64mm,7mm) on Top Layer And Text "C1" (17.742mm,6.619mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.246mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.214mm < 0.254mm) Between Pad C4-2(26.9mm,1.5mm) on Top Layer And Text "C4" (24.865mm,1.119mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.214mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.214mm < 0.254mm) Between Pad C5-2(26.9mm,3mm) on Top Layer And Text "C5" (24.865mm,2.619mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.214mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.214mm < 0.254mm) Between Pad C6-2(26.9mm,4.5mm) on Top Layer And Text "C6" (24.865mm,4.119mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.214mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.214mm < 0.254mm) Between Pad C7-1(18.5mm,3.1mm) on Top Layer And Text "C7" (18.881mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.214mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.214mm < 0.254mm) Between Pad C8-1(23mm,3.1mm) on Top Layer And Text "C8" (23.381mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.214mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9843mil) < 0.254mm (10mil)) Between Pad R2-2(17mm,3.04mm) on Top Layer And Text "R2" (17.381mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9846mil) < 0.254mm (10mil)) Between Pad R3-1(11mm,3.04mm) on Top Layer And Text "R3" (11.381mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9844mil) < 0.254mm (10mil)) Between Pad R4-2(12.5mm,3.04mm) on Top Layer And Text "R4" (12.881mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9845mil) < 0.254mm (10mil)) Between Pad R5-2(20mm,3.04mm) on Top Layer And Text "R5" (20.381mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9846mil) < 0.254mm (10mil)) Between Pad R6-1(15.5mm,3.04mm) on Top Layer And Text "R6" (15.881mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9847mil) < 0.254mm (10mil)) Between Pad R7-1(21.5mm,3.04mm) on Top Layer And Text "R7" (21.881mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2536mm (9.9844mil) < 0.254mm (10mil)) Between Pad R8-2(14mm,3.04mm) on Top Layer And Text "R8" (14.381mm,3.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
+Rule Violations :13
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.191mm < 0.254mm) Between Text "D1" (18.381mm,9.492mm) on Top Overlay And Track (18.75mm,9.45mm)(18.75mm,15.7mm) on Top Overlay Silk Text to Silk Clearance [0.191mm]
+   Violation between Silk To Silk Clearance Constraint: (0.194mm < 0.254mm) Between Text "D1" (18.381mm,9.492mm) on Top Overlay And Track (18.75mm,9.45mm)(19.25mm,9.45mm) on Top Overlay Silk Text to Silk Clearance [0.194mm]
+   Violation between Silk To Silk Clearance Constraint: (0.168mm < 0.254mm) Between Text "L1" (23.992mm,12.869mm) on Top Overlay And Track (23.75mm,12.5mm)(30.25mm,12.5mm) on Top Overlay Silk Text to Silk Clearance [0.168mm]
+   Violation between Silk To Silk Clearance Constraint: (0.24mm < 0.254mm) Between Text "L1" (23.992mm,12.869mm) on Top Overlay And Track (23.75mm,5.5mm)(23.75mm,12.5mm) on Top Overlay Silk Text to Silk Clearance [0.24mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.254mm) Between Text "R2" (17.381mm,3.865mm) on Top Overlay And Track (9.75mm,5.5mm)(17.25mm,5.5mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.254mm) Between Text "R3" (11.381mm,3.865mm) on Top Overlay And Track (9.75mm,5.5mm)(17.25mm,5.5mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.254mm) Between Text "R4" (12.881mm,3.865mm) on Top Overlay And Track (9.75mm,5.5mm)(17.25mm,5.5mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.254mm) Between Text "R6" (15.881mm,3.865mm) on Top Overlay And Track (9.75mm,5.5mm)(17.25mm,5.5mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.254mm) Between Text "R8" (14.381mm,3.865mm) on Top Overlay And Track (9.75mm,5.5mm)(17.25mm,5.5mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.168mm < 0.254mm) Between Text "U1" (15.992mm,11.869mm) on Top Overlay And Track (9.75mm,11.5mm)(17.25mm,11.5mm) on Top Overlay Silk Text to Silk Clearance [0.168mm]
+Rule Violations :10
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 81
+Waived Violations : 0
+Time Elapsed        : 00:00:01

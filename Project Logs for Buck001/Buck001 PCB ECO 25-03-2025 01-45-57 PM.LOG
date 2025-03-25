@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=TPS54260 Member=FIN13
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=FIN2 NewDesignator=FIN3
+Change Component Designator: OldDesignator=FIN3 NewDesignator=FIN5
+Change Component Designator: OldDesignator=FIN4 NewDesignator=FIN7
+Change Component Designator: OldDesignator=FIN5 NewDesignator=FIN10
+Change Component Designator: OldDesignator=FIN6 NewDesignator=FIN1
+Change Component Designator: OldDesignator=FIN7 NewDesignator=FIN2
+Change Component Designator: OldDesignator=FIN9 NewDesignator=FIN4
+Change Component Designator: OldDesignator=FIN10 NewDesignator=FIN6
+Change Component Designator: OldDesignator=FIN12 NewDesignator=FIN8
+Change Component Designator: OldDesignator=FIN13 NewDesignator=FIN9
+Change Component Designator: OldDesignator=FIN14 NewDesignator=FIN11
+Change Component Designator: OldDesignator=FIN15 NewDesignator=FIN12
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H3
+Change Component Designator: OldDesignator=H5 NewDesignator=H4
+Change Component Designator: OldDesignator=H7 NewDesignator=H5
+Change Component Designator: OldDesignator=H8 NewDesignator=H6
+Change Component Designator: OldDesignator=H9 NewDesignator=H7
+Change Component Designator: OldDesignator=H10 NewDesignator=H8
+Change Component Designator: OldDesignator=H12 NewDesignator=H9
+Change Component Designator: OldDesignator=H15 NewDesignator=H10
+Change Component Designator: OldDesignator=H16 NewDesignator=H11
+Change Component Designator: OldDesignator=H17 NewDesignator=H12
+Change Component Designator: OldDesignator=H18 NewDesignator=H13
+Change Component Designator: OldDesignator=H19 NewDesignator=H14
+Change Component Designator: OldDesignator=H20 NewDesignator=H15
+Change Component Designator: OldDesignator=H21 NewDesignator=H16
+Change Component Designator: OldDesignator=H22 NewDesignator=H17
+Change Component Designator: OldDesignator=H23 NewDesignator=H18
+Change Component Designator: OldDesignator=H24 NewDesignator=H19
+Change Component Designator: OldDesignator=H25 NewDesignator=H21
+Change Component Designator: OldDesignator=H26 NewDesignator=H22
+Change Component Designator: OldDesignator=H27 NewDesignator=H23
+Change Component Designator: OldDesignator=H28 NewDesignator=H24
+Change Component Designator: OldDesignator=H29 NewDesignator=H26
+Change Component Designator: OldDesignator=H30 NewDesignator=H20
+Change Component Designator: OldDesignator=H31 NewDesignator=H27
+Change Component Designator: OldDesignator=H32 NewDesignator=H28
+Change Component Designator: OldDesignator=H33 NewDesignator=H29
+Change Component Designator: OldDesignator=H34 NewDesignator=H25
+Change Component Designator: OldDesignator=H35 NewDesignator=H30
+Change Component Designator: OldDesignator=H37 NewDesignator=H31
+Change Component Designator: OldDesignator=H39 NewDesignator=H32
+Change Component Designator: OldDesignator=H40 NewDesignator=H33
+Change Component Designator: OldDesignator=H42 NewDesignator=H35
+Change Component Designator: OldDesignator=H47 NewDesignator=H34
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC8_1
+Added Member To Class: ClassName=TPS54260 Member=Component FIN10 FIN_5X1

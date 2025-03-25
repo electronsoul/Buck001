@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=H13-1
+Removed Pin From Net: NetName=GND Pin=H14-1
+Removed Pin From Net: NetName=GND Pin=H45-1
+Removed Pin From Net: NetName=GND Pin=H46-1
+Removed Member From Class: ClassName=TPS54260 Member=H13
+Removed Member From Class: ClassName=TPS54260 Member=H14
+Removed Member From Class: ClassName=TPS54260 Member=H45
+Removed Member From Class: ClassName=TPS54260 Member=H46

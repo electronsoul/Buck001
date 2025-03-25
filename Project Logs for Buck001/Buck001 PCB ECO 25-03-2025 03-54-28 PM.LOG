@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X10N New Footprint=CAP1206
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X10N New Footprint=CAP1206
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X10N New Footprint=CAP1206
+Change Component Comment : Designator=C4 Old Comment=ERP_102-1 New Comment=MLCC_1206
+Change Component Comment : Designator=C5 Old Comment=ERP_102-1 New Comment=MLCC_1206
+Change Component Comment : Designator=C6 Old Comment=ERP_102-1 New Comment=MLCC_1206
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1608X10N"; UniqueID = "\HBIYZQXM" ("\HBIYZQXM")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM31CZ72A475KE11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608X10N"; UniqueID = "\OZKOXACM" ("\OZKOXACM")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM31CZ72A475KE11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC1608X10N"; UniqueID = "\KFWJDGFF" ("\KFWJDGFF")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM31CZ72A475KE11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
