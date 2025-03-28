@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=FIN7-1
+Removed Member From Class: ClassName=TPS54260 Member=FIN7

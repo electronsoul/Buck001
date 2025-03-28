@@ -1,0 +1,6 @@
+Added Component: Designator=H37(CS_1MM)
+Added Component: Designator=H38(CS_1MM)
+Added Pin To Net: NetName=VOUT Pin=H37-1
+Added Pin To Net: NetName=GND Pin=H38-1
+Added Member To Class: ClassName=TPS54260 Member=Component H37 Castalated_Hole_1MM
+Added Member To Class: ClassName=TPS54260 Member=Component H38 Castalated_Hole_1MM
